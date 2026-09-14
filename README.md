@@ -1,4 +1,4 @@
-# Narrative Transfer Shocks
+## Narrative Transfer Shocks
 
 This repository provides the narrative transfer shock series constructed in
 
@@ -7,7 +7,7 @@ Guerreiro, Joao, Jonathon Hazell, Diego R. Känzig, and Ed Manuel (2026).
 Working paper, September 2026.  
 https://dkaenzig.github.io/diegokaenzig.com/Papers/ghkm_stimuluschecks.pdf
 
-## Description
+### Description
 
 The dataset contains a narrative series of plausibly exogenous temporary transfer payments in the United States, constructed from a detailed historical analysis of postwar veterans' payments and temporary Social Security payments.
 
@@ -17,7 +17,7 @@ The series can be used to study the macroeconomic effects of temporary transfer 
 
 For further details on the construction of the series and the classification of events, see the paper.
 
-## Files
+### Files
 
 - [transfer_shocks.xlsx](transfer_shocks.xlsx): Narrative transfer shock series
 
